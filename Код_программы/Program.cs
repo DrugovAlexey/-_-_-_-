@@ -18,4 +18,10 @@ void FindArray(string[] OutputArray)
     }
     Console.WriteLine();
 }
+string[] array = { "hello_world", "2", "Russia", ":-)" , "123", "654654", "Fine"};
 
+Console.WriteLine();
+EnterArray(array);
+Console.WriteLine();
+FindArray(array);
+Console.WriteLine();

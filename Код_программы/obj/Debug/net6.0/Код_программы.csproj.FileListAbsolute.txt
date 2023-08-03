@@ -1,0 +1,15 @@
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\bin\Debug\net6.0\Код_программы.exe
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\bin\Debug\net6.0\Код_программы.deps.json
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\bin\Debug\net6.0\Код_программы.runtimeconfig.json
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\bin\Debug\net6.0\Код_программы.dll
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\bin\Debug\net6.0\Код_программы.pdb
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\obj\Debug\net6.0\Код_программы.csproj.AssemblyReference.cache
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\obj\Debug\net6.0\Код_программы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\obj\Debug\net6.0\Код_программы.AssemblyInfoInputs.cache
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\obj\Debug\net6.0\Код_программы.AssemblyInfo.cs
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\obj\Debug\net6.0\Код_программы.csproj.CoreCompileInputs.cache
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\obj\Debug\net6.0\Код_программы.dll
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\obj\Debug\net6.0\refint\Код_программы.dll
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\obj\Debug\net6.0\Код_программы.pdb
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\obj\Debug\net6.0\Код_программы.genruntimeconfig.cache
+C:\Users\panda\OneDrive\Рабочий стол\Итоговая контрольная\Код_программы\obj\Debug\net6.0\ref\Код_программы.dll
